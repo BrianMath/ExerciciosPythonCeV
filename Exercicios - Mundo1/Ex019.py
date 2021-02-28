@@ -1,4 +1,5 @@
-#Ex. 019
+# Ex. 019
+
 from random import choice
 n1 = str(input("Digite o 1° nome: "))
 n2 = str(input("Digite o 2° nome: "))

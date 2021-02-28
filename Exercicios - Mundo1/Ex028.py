@@ -1,4 +1,5 @@
-#Ex. 028
+# Ex. 028
+
 from random import choice
 
 print("-"*37)
@@ -18,5 +19,5 @@ for i in range(1, 3):
         print("Errou, que pena!")
         a = 0
     
-if a == 0:
+if a == 0:  # if not a: --> mesmo resultado, pois ('a' = 0) == (False)
     print("\nO número que pensei foi:", numero)

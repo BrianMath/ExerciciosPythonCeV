@@ -1,3 +1,4 @@
-#Ex. 002
-nom = input("Digite seu nome: ")
-print("Seja bem-vindo,",nom)
+# Ex. 002
+
+nome = input("Digite seu nome: ")
+print("Seja bem-vindo,", nome)

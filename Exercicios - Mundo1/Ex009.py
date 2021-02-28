@@ -1,4 +1,5 @@
-#Ex. 009
+# Ex. 009
+
 num = int(input("Digite um n° para ver sua tabuada: "))
 print("-"*12)
 print(f"{num} * 1  = {num*1}")

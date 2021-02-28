@@ -1,4 +1,5 @@
-#Ex. 022
+# Ex. 022
+
 nome = str(input("Digite seu nome completo: ")).strip()
 print("Seu nome em maiúsculas é:", nome.upper())
 print("Seu nome em minúsculas é:", nome.lower())

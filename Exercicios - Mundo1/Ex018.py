@@ -1,4 +1,5 @@
-#Ex. 018
+# Ex. 018
+
 from math import cos, sin, tan, radians
 ang = int(input("Digite um ângulo: "))
 ang_rad = radians(ang)

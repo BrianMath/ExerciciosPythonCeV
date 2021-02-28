@@ -1,5 +1,6 @@
-#Ex. 023
-num = str(input("Digite um número: "))#.zfill(4) -> preenche com 0 até completar 4 casas
+# Ex. 023
+
+num = str(input("Digite um número: "))  # .zfill(4) -> preenche com 0 até completar 4 casas
 while len(num) < 4:
     num = "0" + num
 print("Unidade: ", num[3])
