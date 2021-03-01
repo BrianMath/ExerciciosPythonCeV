@@ -1,4 +1,5 @@
 # Ex. 043
+
 massa = float(input("Digite sua massa (kg): "))
 alt = float(input("Digite sua altura (m): "))
 imc = massa/(alt**2)

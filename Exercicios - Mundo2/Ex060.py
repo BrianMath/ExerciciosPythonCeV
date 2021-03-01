@@ -1,4 +1,5 @@
 # Ex. 060
+
 num = int(input("Digite um número inteiro: "))
 c = fat = num
 

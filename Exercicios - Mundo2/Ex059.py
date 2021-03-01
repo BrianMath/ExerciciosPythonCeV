@@ -1,4 +1,5 @@
 # Ex. 059
+
 while True:
 	print("-"*26)
 	n1 = float(input(" Digite um número: "))

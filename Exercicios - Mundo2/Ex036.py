@@ -1,4 +1,5 @@
 # Ex. 036
+
 vCasa = float(input("Digite o valor da casa: R$"))
 sal = float(input("Digite o seu salário: R$"))
 anos = int(input("Em quantos anos deseja pagar a casa? "))

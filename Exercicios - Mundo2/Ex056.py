@@ -1,4 +1,5 @@
 # Ex. 056
+
 somaIdades, homemVelho, mulheresAbaixo20 = 0, 0, 0
 nomeHomemVelho = ""
 

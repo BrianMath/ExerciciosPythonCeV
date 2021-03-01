@@ -1,4 +1,5 @@
 # Ex. 057
+
 sex = str(input("Digite seu sexo (F/M): ")).upper().strip()
 
 while "F" != sex != "M":

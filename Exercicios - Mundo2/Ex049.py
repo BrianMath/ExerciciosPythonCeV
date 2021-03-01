@@ -1,4 +1,5 @@
 # Ex. 049
+
 num = int(input("Digite o número cuja tabuada deseja ver: "))
 
 for i in range(1, 11):

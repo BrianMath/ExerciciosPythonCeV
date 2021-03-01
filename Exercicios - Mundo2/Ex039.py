@@ -1,4 +1,5 @@
 # Ex. 039
+
 from datetime import date
 
 anoNasc = int(input("Digite seu ano de nascimento: "))

@@ -1,5 +1,7 @@
 # Ex. 041
+
 from datetime import date
+
 anoNasc = int(input("Digite seu ano de nascimento: "))
 resp = date.today().year - anoNasc
 
@@ -12,4 +14,4 @@ elif 19 >= resp > 14:
 elif 25 >= resp > 19:
 	print("Categoria: SÊNIOR.")
 else:
-	print("Categoria: MÁSTER.")
+	print("Categoria: MASTER.")

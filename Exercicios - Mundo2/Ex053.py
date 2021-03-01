@@ -1,4 +1,5 @@
 # Ex. 053
+
 frase1 = str(input("Digite uma frase sem caracteres especiais: ")).strip().lower().replace(" ", "")
 frase2 = frase1[::-1]
 

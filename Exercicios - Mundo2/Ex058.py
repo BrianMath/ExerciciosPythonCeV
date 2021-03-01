@@ -1,4 +1,5 @@
 # Ex. 058
+
 from random import choice
 
 PC = choice(range(1, 11))

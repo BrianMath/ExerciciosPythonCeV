@@ -1,4 +1,5 @@
 # Ex. 054
+
 from datetime import date
 
 maior = menor = 0

@@ -1,4 +1,5 @@
 # Ex. 048
+
 impar = 0
 
 for i in range(1, 501, 2):

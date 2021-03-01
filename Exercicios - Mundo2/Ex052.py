@@ -1,4 +1,5 @@
 # Ex. 052
+
 div = 0
 num = int(input("Digite um número: "))
 
