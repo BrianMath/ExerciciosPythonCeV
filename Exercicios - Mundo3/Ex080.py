@@ -12,11 +12,11 @@ for i in range(1, 6):
             print(f"O valor {num} foi inserido na posição {j}")
             numEntrou = True  # ... confirma que entrou ...
             break  # ... e para de verificar, finalizando o laço
-    
+
     if not numEntrou:  # Se 'num' não for menor que qualquer valor de 'valores' ...
         valores.append(num)  # ... significa que ele é o maior, portanto, deve ir para o final
         print(f"O valor {num} foi para o final")
-    
+
     print()
 
 print("-" * 45)

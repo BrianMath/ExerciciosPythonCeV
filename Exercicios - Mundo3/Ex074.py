@@ -4,7 +4,7 @@ from random import randint
 
 numeros = []
 for i in range(5):
-	numeros.append(randint(1, 20))
+    numeros.append(randint(1, 20))
 tuplaNums = tuple(numeros)
 
 print(f"Números sorteados: {tuplaNums}")

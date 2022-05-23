@@ -10,7 +10,6 @@ if exp.count("(") != exp.count(")"):
     print("Expressão inválida!")
     expInvalida = True
 
-
 # Verificação 2: verifica, a cada ')', se há, pelo menos, um '(' para fechá-lo
 if not expInvalida:
     for i in exp:

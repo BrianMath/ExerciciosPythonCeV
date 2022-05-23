@@ -12,6 +12,5 @@ for pos, i in enumerate(num):
     if num[pos] == min(num):
         posMin.append(pos)
 
-
 print(f"\nO maior valor é {max(num)} e está na(s) posição(ões) {posMax}")
 print(f"O menor valor é {min(num)} e está na(s) posição(ões) {posMin}")

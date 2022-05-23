@@ -5,15 +5,15 @@ times = ("Corinthians", "Palmeiras", "Santos", "Grêmio", "Cruzeiro", "Flamengo"
          "Avaí", "Ponte Preta", "Atlético-GO")
 
 print(f"Lista de times: {times}")
-print("-"*30)
+print("-" * 30)
 
 print(f"Cinco primeiros times: {times[:5]}")
-print("-"*30)
+print("-" * 30)
 
 print(f"Quatro últimos times: {times[-4:]}")
-print("-"*30)
+print("-" * 30)
 
 print(f"Times em ordem alfabética: {sorted(times)}")
-print("-"*30)
+print("-" * 30)
 
 print(f"Chapecoense está na {times.index('Chapecoense') + 1}ª posição.")

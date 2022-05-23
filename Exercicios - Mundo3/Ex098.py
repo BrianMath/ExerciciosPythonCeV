@@ -1,6 +1,7 @@
 # Ex. 098 +=
 
 from time import sleep
+
 Cor, Normal = "\033[1:36m", "\033[m"
 
 

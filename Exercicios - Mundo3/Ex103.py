@@ -1,7 +1,6 @@
 # Ex. 103 +=
 
 def ficha(nomeJog="<desconhecido>", numGols=0):
-
     print(f"Jogador {nomeJog} fez {numGols} gol(s)")
 
 

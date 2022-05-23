@@ -2,7 +2,7 @@
 
 pessoa = {'Nome': str(input("Nome: "))}  # Declarei o dicionário com a 1ª chave e recebendo 1º valor
 pessoa['Média'] = float(input(f"Qual a média de {pessoa['Nome']}? "))  # 'pessoa' na chave 'Média' (criada aqui)
-                                                                       # recebe o seu valor
+
 if pessoa['Média'] >= 7:
     pessoa['Situação'] = "Aprovado"  # Nova chave 'Situação' criada
 elif 5 <= pessoa['Média'] < 7:

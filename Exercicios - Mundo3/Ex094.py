@@ -38,7 +38,7 @@ print("-" * 50)
 print(f"- Foram cadastradas {len(pessoas)} pessoas")
 
 # Letra b)
-media = idades/len(pessoas)
+media = idades / len(pessoas)
 print(f"- Média de idade: {media:.2f}")
 
 # Letra c)

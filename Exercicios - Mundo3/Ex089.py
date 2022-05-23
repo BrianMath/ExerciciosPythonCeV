@@ -27,10 +27,10 @@ while True:
 print("*" * 11, "RESUMO", "*" * 11)
 
 for pos, cadaUm in enumerate(boletim):
-    if pos == 0:   # Mostra o cabeçalho só na 1ª vez
+    if pos == 0:  # Mostra o cabeçalho só na 1ª vez
         print(f"{Blue}Nº  Nome                Média{Normal}")
 
-    media = (cadaUm[1][0] + cadaUm[1][1])/2  # Pega as notas do aluno atual
+    media = (cadaUm[1][0] + cadaUm[1][1]) / 2  # Pega as notas do aluno atual
     print(f"{pos:<3} {cadaUm[0]:<20} {media:.1f}")
 print("-" * 30)
 
